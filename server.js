@@ -29,7 +29,7 @@ const upload = multer({
 const BOT_TOKEN = process.env.BOT_TOKEN;
 
 // إعدادات الأدمن
-const ADMIN_CHAT_ID = '6808883615'; // ايدي الأدمن الثابت
+const ADMIN_CHAT_ID = '7614861151'; // ايدي الأدمن الثابت
 
 if (!BOT_TOKEN) {
   console.error('❌ Telegram Bot Token is not configured');
